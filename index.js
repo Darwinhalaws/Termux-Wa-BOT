@@ -1,7 +1,7 @@
 
 const BotName = 'BOT AQIP'; // Nama Bot Whatsapp
-const whatsapplu = 'Wa.me/+6289601416330'; // Nomor whatsapplu cok
-const kapanbotaktif = '5 Jam'; // Kapan bot lu aktif
+const whatsapplu = 'Wa.me/+6281396461615'; // Nomor whatsapplu cok
+const kapanbotaktif = '24 jam'; // Kapan bot lu aktif
 
 //
 const qrcode = require("qrcode-terminal");
